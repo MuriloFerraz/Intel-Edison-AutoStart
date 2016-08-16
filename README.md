@@ -24,7 +24,7 @@ vamos criar nosso script de teste
 ~# vi hello_lcd.py
 
 
-#! /usr/bin/python
+  #! /usr/bin/python 
 import pyupm_i2clcd as grove_lcd
 import mraa
 import time
